@@ -16,7 +16,7 @@ I automated tests for the Petstore API using Postman and ran them with Newman. I
 What I did:
  I automated tests for the JSONPlaceholder demo API using Postman and Newman. The workflow also runs automatically on GitHub Actions.  
 - Repo link: [API_JSONPLACEHOLDER](https://github.com/laurel-issy5560/API_JSONPLACEHOLDER)
-- **Workflow status:** ![CI](https://github.com/laurel-issy5560/API_JSONPLACEHOLDER/actions/workflows/newman-ci.yml/badge.svg)  
+- **Workflow status:** [CI](https://github.com/laurel-issy5560/jsonplaceholder-tests/actions/workflows/newman-ci.yml/badge.svg)  
 - **Screenshots / Reports**:  
    Clik to view my Jsonplace holder HTML Report: https://drive.google.com/file/d/15OiNRZ3oBIb2TWBGhE2zwO5S9prl10ym/view?usp=sharing 
 - jsonplaceholder-report.png)
