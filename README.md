@@ -24,3 +24,11 @@ Hi! This is my portfolio for API automation projects. Here I showcase my work us
 **Workflow status:** ![CI](https://github.com/laurel-issy5560/jsonplaceholder-tests/actions/workflows/newman-ci.yml/badge.svg)  
 **Link to workflow runs:** [View Workflow Runs](https://github.com/laurel-issy5560/jsonplaceholder-tests/actions)  
 **Report:** [View JSONPlaceholder HTML Report](https://drive.google.com/file/d/15OiNRZ3oBIb2TWBGhE2zwO5S9prl10ym/view?usp=sharing)
+
+### API AUTOMATION Workspace
+**Explore/Postman Link:**  
+👉 [View API Automation Collection in Postman](https://www.postman.com/red-zodiac-225969/workspace/api-automation-workspace/collection/46700011-09eb58f9-30b6-42c8-96e8-9e48733d06a7?action=share&creator=46700011&active-environment=46700011-b2ce28c5-0646-40f6-a0e4-596c28e0b0e2)
+
+📌 This link opens the Postman collection online. From there you can:
+- View all requests and scripts
+- See environment variables 
