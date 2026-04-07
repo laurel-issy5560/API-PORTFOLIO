@@ -9,7 +9,7 @@ Hi! This is my portfolio for API automation projects. Here I showcase my work us
 **Repo link:** [RESTFUL-BOOKER-API-TEST](https://github.com/laurel-issy5560/RESTFUL-BOOKER-API-TEST)  
 **Workflow status:** ![CI](https://github.com/laurel-issy5560/RESTFUL-BOOKER-API-TEST/actions/workflows/newman-ci.yml/badge.svg)  
 **Link to workflow run:** [View Workflow Run](https://github.com/laurel-issy5560/RESTFUL-BOOKER-API-TEST/actions)  
-**Report:** [View RESTFUL-BOOKER HTML Report](https://github.com/laurel-issy5560/RESTFUL-BOOKER-API-TEST/suites)
+**Report:** [View RESTFUL-BOOKER HTML Report](https://drive.google.com/file/d/1UnNWdcJPwy-fmJwBYtlnVZ5K0I0bZ-6f/view?usp=sharing)
 
 ### Petstore API
 **What I did:** I automated tests for the Petstore API using Postman and ran them with Newman. I also set up a workflow on GitHub Actions to run tests automatically.  
